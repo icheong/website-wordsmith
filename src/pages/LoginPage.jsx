@@ -16,11 +16,18 @@ export default function LoginPage() {
     const { error: signInError } = await signIn(email.trim(), password)
     setBusy(false)
     if (signInError) {
-      setError(
-        signInError.message === 'Invalid login credentials'
-          ? 'That email and password combination did not match an account.'
-          : signInError.message,
-      )
+      const message = signInError.message ?? ''
+      if (message === 'Invalid login credentials') {
+        setError(
+          'That email and password combination did not match an account.',
+        )
+      } else if (/api key/i.test(message)) {
+        setError(
+          'Supabase rejected the API key. Check VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY in .env — both must be copied from the same project (Supabase Dashboard → Project Settings → API keys).',
+        )
+      } else {
+        setError(message)
+      }
     }
   }
 
