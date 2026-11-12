@@ -1,0 +1,122 @@
+[
+  {
+    "id": "sen-01",
+    "category": "Sensory",
+    "text": "Write three sentences about your favourite meal using only smells and sounds — no taste words allowed."
+  },
+  {
+    "id": "sen-02",
+    "category": "Sensory",
+    "text": "Describe the school playground using two things you can hear, two you can see, and one you can feel."
+  },
+  {
+    "id": "sen-03",
+    "category": "Sensory",
+    "text": "Take off your shoes and describe what the grass feels like beneath your feet."
+  },
+  {
+    "id": "sen-04",
+    "category": "Sensory",
+    "text": "It is early morning in your bedroom. Describe the room using only what you can hear."
+  },
+  {
+    "id": "sen-05",
+    "category": "Sensory",
+    "text": "A mysterious box is sitting on the desk. Describe it so clearly that a friend could draw it without seeing."
+  },
+  {
+    "id": "sen-06",
+    "category": "Sensory",
+    "text": "Write about the walk home from school using only colours."
+  },
+  {
+    "id": "sen-07",
+    "category": "Sensory",
+    "text": "Describe the feeling of climbing into bed on a cold night — two sentences, and neither 'cold' nor 'warm' may appear."
+  },
+  {
+    "id": "sen-08",
+    "category": "Sensory",
+    "text": "A stranger walks past you in the street. Describe them using exactly one smell and one sound."
+  },
+  {
+    "id": "per-01",
+    "category": "Perspective",
+    "text": "Retell your morning from the point of view of the school bell."
+  },
+  {
+    "id": "per-02",
+    "category": "Perspective",
+    "text": "Write a complaint letter from a sock that has lost its partner."
+  },
+  {
+    "id": "per-03",
+    "category": "Perspective",
+    "text": "Describe your classroom as if you are seeing it for the very first time, from the doorway."
+  },
+  {
+    "id": "per-04",
+    "category": "Perspective",
+    "text": "You are the last leaf still holding on to the tree. Write about letting go."
+  },
+  {
+    "id": "per-05",
+    "category": "Perspective",
+    "text": "Tell a small story from the point of view of a pencil sitting in a jar."
+  },
+  {
+    "id": "per-06",
+    "category": "Perspective",
+    "text": "Your shoes have had a very hard day. Let them speak for themselves."
+  },
+  {
+    "id": "per-07",
+    "category": "Perspective",
+    "text": "Write about the sea from the perspective of a stone resting at the bottom."
+  },
+  {
+    "id": "per-08",
+    "category": "Perspective",
+    "text": "The old house at the end of the road has watched a hundred families come and go. What does it remember?"
+  },
+  {
+    "id": "atm-01",
+    "category": "Atmosphere",
+    "text": "Write about an empty playground at night. Nothing bad happens — only mood."
+  },
+  {
+    "id": "atm-02",
+    "category": "Atmosphere",
+    "text": "A storm is coming, but nobody else has noticed yet. Build the tension slowly."
+  },
+  {
+    "id": "atm-03",
+    "category": "Atmosphere",
+    "text": "Describe a library in the exact moment just before the lights go out."
+  },
+  {
+    "id": "atm-04",
+    "category": "Atmosphere",
+    "text": "The first snow of the year falls on your street. Slow everything down."
+  },
+  {
+    "id": "atm-05",
+    "category": "Atmosphere",
+    "text": "Write three sentences that make an ordinary kitchen feel unsettling."
+  },
+  {
+    "id": "atm-06",
+    "category": "Atmosphere",
+    "text": "It is the last afternoon of the holidays. Capture exactly how that feels."
+  },
+  {
+    "id": "atm-07",
+    "category": "Atmosphere",
+    "text": "A single lamp is on in the whole house. Write the scene around it."
+  },
+  {
+    "id": "atm-08",
+    "category": "Atmosphere",
+    "text": "Describe a busy train station so that it feels calm rather than noisy."
+  }
+]
